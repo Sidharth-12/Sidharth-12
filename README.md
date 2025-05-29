@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sidharth  
-- 😄 Pronouns: he/him  
+- 👋 Hi, I’m Sidharth   
 - 👀 Interested in projects & DSA  
 - 🌱 Learning Full-Stack Development & DSA  
 - 💡 Open to collaborating on exciting ideas 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sidharth  
-  😄 Pronouns: he/him  
-  👀 Interested in projects & DSA  
-  🌱 Learning Full-Stack Development & DSA  
-  💡 Open to collaborating on exciting ideas 
+- 😄 Pronouns: he/him  
+- 👀 Interested in projects & DSA  
+- 🌱 Learning Full-Stack Development & DSA  
+- 💡 Open to collaborating on exciting ideas 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I code better before my morning coffee!
 
